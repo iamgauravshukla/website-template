@@ -131,6 +131,10 @@
 	height: 440px;
 }
 
+#contact-form form {
+    width: 96%;
+}
+
 
 /*Utility Classes*/
 .h-primary{
